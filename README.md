@@ -1,5 +1,8 @@
 # LTI_system_response
 Some matlab questions asked frequently in lab.. it's good for practice purpose...
+
+
+
 Q1.	Find the response y(t) of a system with impulse response h(t) = u(t)-u(t-1)	to an input x(t)=u(t)-u(t-1)	Use convolution integral. Plot x(t),h(t)and y(t).
 
 Q2.	For the above series RLC circuit find out i(t) if the initial conditions given are L=10 H , R=400 ohms and C=100μF with i(0)=4 Amp and i‟(0)= 15 amp/s.
